@@ -1,0 +1,52 @@
+.contender-1,
+.contender-2 {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    width: 120px;
+    border: 1px solid #000;
+    padding-left: 2px;
+    background-color: #f1f1f1;
+}
+
+.contender-1 {
+    border-bottom: 0px;
+}
+
+.game {
+    margin-bottom: 16px;
+    float: left;
+    clear: both;
+}
+
+.round-1 .line-top,
+.round-2 .line-top {
+    float: left;
+    height: 35px;
+    width: 10px;
+    border-right: 1px solid #000;
+    margin-top: 18px;
+    border-top: 1px solid #000;
+}
+
+.line-bottom {
+    float: left;
+    height: 19px;
+    width: 10px;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+.round-1 {
+    float: left;
+}
+
+.round-2 {
+    float: left;
+    margin-top: 26px;
+}
+
+.round-2 .line-top {
+    height: 85px;
+}
+
+/* Additional styles for rounds */
